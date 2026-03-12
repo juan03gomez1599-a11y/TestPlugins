@@ -1,6 +1,6 @@
 {
-  "name": "AZZY",
-  "description": "Plugins",
+  "name": "AZZY Plugins",
+  "description": "Cuevana Repo",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/juan03gomez1599-a11y/TestPlugins/master/ExampleProvider/ExampleProvider.cs3"
