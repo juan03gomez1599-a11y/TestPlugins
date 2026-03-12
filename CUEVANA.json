@@ -1,0 +1,8 @@
+{
+  "name": "AZZY Plugins",
+  "description": "Repositorio de Cuevana",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/juan03gomez1599-a11y/TestPlugins/master/ExampleProvider/build/ExampleProvider.cs3"
+  ]
+}
